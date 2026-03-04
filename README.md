@@ -114,15 +114,14 @@ The following visualizations were used to explore the data:
 - Matplotlib
 - Seaborn
 
- ## Project Workflow Diagram  
-  <img width="4305" height="129" alt="Workflow" src="https://github.com/user-attachments/assets/8f304319-8b3a-4a68-8945-69493a3b828d" />
+## Project Workflow Diagram
 
+![Workflow](reports/figures/Workflow.png)
 
- ## Machine Learning Pipeline Diagram  
-<img width="1023" height="1148" alt="ML Pipeline" src="https://github.com/user-attachments/assets/57eecf50-94e5-42f5-9f49-cf487ca5a5ec" />
+## Machine Learning Pipeline Diagram
 
+![ML Pipeline](reports/figures/ml_pipeline.png)
 
-## System Architecture Diagram  
-<img width="2555" height="164" alt="System Architecture" src="https://github.com/user-attachments/assets/c0a6da8f-a428-4702-8e17-dcd94df75d62" />
+## System Architecture Diagram
 
-
+![System Architecture](reports/figures/system_architecture.png)
