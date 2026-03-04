@@ -113,3 +113,4 @@ The following visualizations were used to explore the data:
 - Scikit-learn
 - Matplotlib
 - Seaborn
+<img width="4305" height="129" alt="Workflow" src="https://github.com/user-attachments/assets/daafa81d-4cf9-4d55-9b51-63cfe7e9b826" />
