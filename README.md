@@ -40,7 +40,7 @@ Possible diet types:
 
 ## Project Workflow
 
-The project follows a standard machine learning pipeline:
+The project follows a standard machine learning pipeline:  
 1️. Data Understanding  
 2️. Data Cleaning  
 3️. Exploratory Data Analysis  
