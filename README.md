@@ -41,15 +41,15 @@ Possible diet types:
 ## Project Workflow
 
 The project follows a standard machine learning pipeline:
-1️. Data Understanding
-2️. Data Cleaning
-3️. Exploratory Data Analysis
-4️. Feature Engineering
-5️. Train-Test Split
-6️. Model Training
-7️. Model Evaluation
-8️. Hyperparameter Tuning
-9️. Feature Importance Analysis
+1️. Data Understanding  
+2️. Data Cleaning  
+3️. Exploratory Data Analysis  
+4️. Feature Engineering  
+5️. Train-Test Split  
+6️. Model Training  
+7️. Model Evaluation  
+8️. Hyperparameter Tuning  
+9️. Feature Importance Analysis  
 
 ## Exploratory Data Analysis
 
