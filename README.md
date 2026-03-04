@@ -113,4 +113,10 @@ The following visualizations were used to explore the data:
 - Scikit-learn
 - Matplotlib
 - Seaborn
-<img width="4305" height="129" alt="Workflow" src="https://github.com/user-attachments/assets/daafa81d-4cf9-4d55-9b51-63cfe7e9b826" />
+<img width="4305"<img width="1023" height="1148" alt="ML Pipeline" src="https://github.com/user-attachments/assets/f550e2a3-fd9d-4ca7-a04f-0e34469d9535" />
+<img width="1023" height="1148" alt="ML Pipeline" src="https://github.com/user-attachments/assets/57eecf50-94e5-42f5-9f49-cf487ca5a5ec" />
+<img width="1023" height="1148" alt="ML Pipeline" src="https://github.com/user-attachments/assets/57eecf50-94e5-42f5-9f49-cf487ca5a5ec" />
+<img width="2555" height="164" alt="System Architecture" src="https://github.com/user-attachments/assets/c0a6da8f-a428-4702-8e17-dcd94df75d62" />
+<img width="2555" height="164" alt="System Architecture" src="https://github.com/user-attachments/assets/c0a6da8f-a428-4702-8e17-dcd94df75d62" />
+
+
