@@ -116,7 +116,7 @@ The following visualizations were used to explore the data:
 
 ## Project Workflow Diagram
 
-![Workflow](reports/figures/Workflow.png)
+<img src="reports/figures/workflow.png" width="900">
 
 ## Machine Learning Pipeline Diagram
 
@@ -124,4 +124,4 @@ The following visualizations were used to explore the data:
 
 ## System Architecture Diagram
 
-![System Architecture](reports/figures/system_architecture.png)
+<img src="reports/figures/system_architecture.png" width="900">
