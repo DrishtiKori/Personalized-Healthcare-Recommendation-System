@@ -116,7 +116,7 @@ The following visualizations were used to explore the data:
 
 ## Project Workflow Diagram
 
-  <img src="reports/figures/workflow.png" width="900">
+  <img src="reports/figures/workflow.png">
   
 ## Machine Learning Pipeline Diagram
 
